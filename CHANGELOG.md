@@ -1,5 +1,8 @@
 ## Unreleased
 
+Fixes:
+- Completions with snippets now interact properly with Kakoune's completion engine (#616).
+
 ## 12.2.1 - 2022-05-08
 
 Fixes:
